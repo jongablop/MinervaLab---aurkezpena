@@ -1,0 +1,15 @@
+name: libraries
+channels:
+  - conda-forge
+dependencies:
+- appmode
+- bqplot=0.11.6
+- scipy
+- numpy
+- pip
+- matplotlib
+- qgrid
+- ipywidgets
+- pandas
+- pip:
+  - ipyvolume

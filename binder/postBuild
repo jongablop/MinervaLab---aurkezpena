@@ -3,6 +3,7 @@ jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable python-markdown/main
 
 jupyter nbextension enable hide_input/main
+jupyter nbextension enable init_cell/main
 
 # Add the fileupload module.
 #jupyter nbextension install --user --py fileupload

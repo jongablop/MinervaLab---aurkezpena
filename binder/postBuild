@@ -2,7 +2,7 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable python-markdown/main
 
-jupyter nbextension enable --py --user hide-input
+jupyter nbextension enable hide_input/main
 
 # Add the fileupload module.
 #jupyter nbextension install --user --py fileupload

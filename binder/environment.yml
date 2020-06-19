@@ -15,4 +15,3 @@ dependencies:
 - pip:
   - ipyvolume
   - jupyter-contrib-nbextensions
-  - hideinput

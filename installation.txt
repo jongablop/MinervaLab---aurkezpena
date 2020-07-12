@@ -1,0 +1,11 @@
+RISE:
+
+pip install RISE
+
+NBextensions:
+https://stackoverflow.com/questions/37718907/variable-explorer-in-jupyter-notebook/41338184#41338184
+https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator
+
+bqplot, scipy,
+
+http://tljh.jupyter.org/en/latest/howto/admin/enable-extensions.html
